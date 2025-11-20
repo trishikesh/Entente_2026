@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.womensconf.org)",
+      "WebFetch(domain:niituniversity.in)",
+      "Bash(npx create-next-app:*)",
+      "Bash(node --version)",
+      "Bash(npm --version)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
